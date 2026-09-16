@@ -66,8 +66,8 @@ Python/Automation Engineer · Research Engineer
 
 ---
 
-📊 GitHub Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AqibKeerio&show_icons=true&theme=default&hide_title=true&hide_border=true" alt="GitHub Stats" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AqibKeerio&theme=default&hide_border=true" alt="GitHub Streak" height="165" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AqibKeerio&theme=github-compact&hide_border=true" alt="Contribution Graph" width="90%" /> </p>
+#### 📊 GitHub Activity
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=AqibKeerio&theme=default&hide_border=true" alt="GitHub Streak" height="165" />
 
 
 <p align="center">
