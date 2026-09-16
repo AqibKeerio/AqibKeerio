@@ -67,8 +67,8 @@ Python/Automation Engineer · Research Engineer
 ---
 
 #### 📊 GitHub Activity
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=AqibKeerio&theme=default&hide_border=true" alt="GitHub Streak" height="165" />
 
+<p align="center">  <img src="https://streak-stats.demolab.com/?user=AqibKeerio&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" height="165" /> </p> <p align="center"> 
 
 <p align="center">
 📫 <b>muhammadaqib0336@gmail.com</b> &nbsp;|&nbsp; 🔗 <a href="https://linkedin.com/in/muhammad-aqib336/">linkedin.com/in/muhammad-aqib336</a>
