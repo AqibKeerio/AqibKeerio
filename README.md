@@ -1,5 +1,5 @@
 <h1 align="center">Muhammad Aqib</h1>
-<h3 align="center">RF & GNSS Systems Engineer | Python · Embedded Systems · Signal Processing Research</h3>
+<h3 align="center">Wireless & GNSS Test Engineer | RF · Embedded Systems</h3>
 
 <p align="center">
 <a href="mailto:muhammadaqib0336@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
